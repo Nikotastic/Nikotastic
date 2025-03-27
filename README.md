@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy progrmadora, manejo tanto front como backend y un poco de ciberseguridad</p>
+<p align="left">Soy programadora, manejo tanto front como backend y un poco de ciberseguridad</p>
 
 ###
 
