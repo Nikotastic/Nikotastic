@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy programadora, manejo tanto front como backend y un poco de ciberseguridad</p>
+<p align="left">I am a programmer, I handle both front and backend and a little bit of cybersecurity.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goals: Ser capaz de entender codigo rapidamente <br>🎲 Fun fact: me gusta el mundo de ciberseguridad</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript<br>🎯 Goals:Be able to understand code quickly <br>🎲 Fun fact: I like the world of cybersecurity</p>
 
 ###
 
