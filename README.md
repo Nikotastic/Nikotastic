@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Soy Nikol Velasquez</h1>
+<h1 align="left">Hey 👋 I'm Nikol Velasquez</h1>
 
 ###
 
