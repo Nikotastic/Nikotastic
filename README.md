@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript<br>🎯 Goals:Be able to understand code quickly <br>🎲 Fun fact: I like the world of cybersecurity</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C#<br>🎯 Goals:Be able to understand code quickly <br>🎲 Fun fact: I like the world of cybersecurity</p>
 
 ###
 
